@@ -6,13 +6,14 @@ An AI-powered mathematics education platform that helps students solve math prob
 
 �🔗 **Live Demo**: [https://ai-math-education-platform.vercel.app](https://ai-math-education-platform.vercel.app)
 
-## Features
+## ✨ Features
 
-- AI-powered math problem solver (text and image input)
-- Step-by-step solution explanations
-- Interactive calculator
-- User authentication
-- Research tracks and team profiles
+- 🤖 AI-powered math problem solver (text and image input)
+- 📝 Step-by-step solution explanations
+- 🧮 Interactive scientific calculator
+- 🔐 User authentication
+- 📊 Progress tracking dashboard
+- ✅ Answer verification system
 
 ## Tech Stack
 
